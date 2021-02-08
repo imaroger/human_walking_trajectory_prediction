@@ -1,0 +1,4 @@
+geometry_msgs/Pose com_pose
+geometry_msgs/Pose foot_pose
+geometry_msgs/Pose future_foot_pose
+string foot
